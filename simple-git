@@ -38,3 +38,7 @@ git commit -m "SOME message"
 git remote add origin https://github.com/BecomeDevops/azure.git
 
 git push
+
+-------------------------------------------------------------------------------------------------------------------
+This course is created as part of @BecomeDevops course
+------------------------------------------------------------------------------------------------------------------------
