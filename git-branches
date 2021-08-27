@@ -1,30 +1,46 @@
+Agenda
+-------------------------
+-------------------------
 
 
 Branches in Git
--------------------------------
+----------------------
 
 Git Merge
-----------------------------
+----------------------
 
 Git Fetch
---------------------------------------------
+---------------------
 
 Git pull
------------------------------------
+---------------------
 
 Merge Conflicts in Git
------------------------------------------------
+----------------------
 
-Main/Master Branch --- Here we have store code that is being pushed to production server
+
+--------------------------
+--------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Branching Strategy in Git/ How Branching works
+-------------------------------------------------
+
+
+
+Main/Master Branch --- Here we store code that is being pushed to production server
 
 live environment ---- served by the code that is available in master branch
+
+New features will be added to the product, which means new code will be addd to the existing code
+
+
 Feature ---> Prouduct
 
-Master Branch – code is working + code  for a new feature
+Master Branch – cworking code (existing code) + code  for a new feature
 
-code  for a new feature = issues
-
-Resulting in application down time
+code  for a new feature might result in issues, Resulting in application down time
 
 -----------------------------------------------------
 Master Branch – previous working code is already there
