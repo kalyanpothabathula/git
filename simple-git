@@ -1,6 +1,6 @@
 git add .
 
-files will be added to staging are
+files will be added to staging area
 
 git commit -m "COMMIT msg"
 
